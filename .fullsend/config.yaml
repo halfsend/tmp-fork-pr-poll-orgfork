@@ -1,0 +1,6 @@
+version: "1"
+forge: github
+fork_pr_review_poll:
+  enabled: true
+  max_starts_per_cycle: 10
+  max_attempts_per_head: 1
